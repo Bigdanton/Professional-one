@@ -78,10 +78,12 @@ footer a {
     flex-direction: column;
     align-self: center;
     height: fit-content;
+    padding-left: 0%;
   }
   p {
     display: flex;
     flex-direction: column;
+    align-content: center;
   }
 
   .buto {
